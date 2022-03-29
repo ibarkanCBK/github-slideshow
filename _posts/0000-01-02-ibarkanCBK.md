@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#semper ubi sub ubi
 Use the left arrow to go back!
